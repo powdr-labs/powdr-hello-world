@@ -1778,7 +1778,7 @@ dependencies = [
 [[package]]
 name = "powdr"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "powdr-backend",
  "powdr-executor",
@@ -1791,7 +1791,7 @@ dependencies = [
 [[package]]
 name = "powdr-airgen"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "log",
  "num-bigint 0.4.4",
@@ -1802,7 +1802,7 @@ dependencies = [
 [[package]]
 name = "powdr-analysis"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "itertools 0.10.5",
  "lazy_static",
@@ -1816,7 +1816,7 @@ dependencies = [
 [[package]]
 name = "powdr-asm-to-pil"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "lazy_static",
  "log",
@@ -1830,7 +1830,7 @@ dependencies = [
 [[package]]
 name = "powdr-asm-utils"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "itertools 0.10.5",
 ]
@@ -1838,7 +1838,7 @@ dependencies = [
 [[package]]
 name = "powdr-ast"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "derive_more",
  "diff",
@@ -1852,7 +1852,7 @@ dependencies = [
 [[package]]
 name = "powdr-backend"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "log",
  "powdr-ast",
@@ -1868,7 +1868,7 @@ dependencies = [
 [[package]]
 name = "powdr-executor"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "bit-vec",
  "indicatif",
@@ -1887,7 +1887,7 @@ dependencies = [
 [[package]]
 name = "powdr-halo2"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "halo2_proofs",
  "halo2curves",
@@ -1907,7 +1907,7 @@ dependencies = [
 [[package]]
 name = "powdr-importer"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "powdr-ast",
  "powdr-number",
@@ -1918,7 +1918,7 @@ dependencies = [
 [[package]]
 name = "powdr-linker"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "itertools 0.10.5",
  "powdr-analysis",
@@ -1930,7 +1930,7 @@ dependencies = [
 [[package]]
 name = "powdr-number"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "ark-bn254",
  "ark-ff",
@@ -1942,7 +1942,7 @@ dependencies = [
 [[package]]
 name = "powdr-parser"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "lalrpop",
  "lalrpop-util",
@@ -1958,7 +1958,7 @@ dependencies = [
 [[package]]
 name = "powdr-parser-util"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "codespan-reporting",
  "lalrpop-util",
@@ -1967,7 +1967,7 @@ dependencies = [
 [[package]]
 name = "powdr-pil-analyzer"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "itertools 0.10.5",
  "num-bigint 0.4.4",
@@ -1981,7 +1981,7 @@ dependencies = [
 [[package]]
 name = "powdr-pilopt"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "log",
  "powdr-ast",
@@ -1993,7 +1993,7 @@ dependencies = [
 [[package]]
 name = "powdr-pipeline"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "itertools 0.10.5",
  "log",
@@ -2023,7 +2023,7 @@ dependencies = [
 [[package]]
 name = "powdr-riscv"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "itertools 0.10.5",
  "lalrpop",
@@ -2044,7 +2044,7 @@ dependencies = [
 [[package]]
 name = "powdr-riscv-executor"
 version = "0.1.0-alpha.1"
-source = "git+https://github.com/powdr-labs/powdr?branch=powdr-crate-halo2#5c3457157470441db46a53a3753114e489f24b52"
+source = "git+https://github.com/powdr-labs/powdr?branch=main#43334919411665ee4377cc554b0f52042aac8423"
 dependencies = [
  "itertools 0.11.0",
  "log",
